@@ -1,0 +1,9 @@
+# volumes
+/share/
+/mysql-data/
+
+# docker-composeで使う.env
+.env
+
+# memo
+memo.txt
